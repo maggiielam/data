@@ -1,0 +1,19 @@
+week,1,2,3,4,5,6,7,8,9,10
+1,South Carolina,Stanford,Texas,Iowa,Tennessee,UConn,Louisville,Iowa State,Notre Dame,North Carolina State
+2,South Carolina,Stanford,Texas,Iowa,UConn,Louisville,Iowa State,Ohio State,Notre Dame,North Carolina State
+3,South Carolina,Stanford,UConn,Ohio State,Iowa State,Indiana,Notre Dame,North Carolina,Iowa,Louisville
+4,South Carolina,Stanford,UConn,Ohio State,Indiana,North Carolina,Notre Dame,Iowa State,Virginia Tech,Iowa
+5,South Carolina,Stanford,Ohio State,Indiana,Notre Dame,UConn,Virginia Tech,North Carolina,North Carolina State,Iowa State
+6,South Carolina,Stanford,Ohio State,Indiana,Notre Dame,Virginia Tech,North Carolina,North Carolina State,UConn,UCLA
+7,South Carolina,Stanford,Ohio State,Indiana,Notre Dame,North Carolina,North Carolina State,Virginia Tech,UConn,LSU
+8,South Carolina,Stanford,Ohio State,Indiana,Notre Dame,North Carolina State,Virginia Tech,UConn,LSU,UCLA
+9,South Carolina,Stanford,Ohio State,Notre Dame,UConn,Indiana,LSU,Utah,Virginia Tech,North Carolina State
+10,South Carolina,Stanford,Ohio State,UConn,LSU,Indiana,Notre Dame,UCLA,Maryland,Utah
+11,South Carolina,Ohio State,LSU,Stanford,UConn,Indiana,Notre Dame,Utah,UCLA,Iowa
+12,South Carolina,Ohio State,Stanford,LSU,UConn,Indiana,Notre Dame,UCLA,Utah,Iowa
+13,South Carolina,Stanford,LSU,Indiana,UConn,Iowa,Utah,Maryland,Notre Dame,Ohio State
+14,South Carolina,Indiana,LSU,UConn,Iowa,Stanford,Utah,Maryland,Duke,Notre Dame
+15,South Carolina,Indiana,Stanford,Utah,LSU,UConn,Iowa,Maryland,Duke,Notre Dame
+16,South Carolina,Indiana,Stanford,UConn,LSU,Iowa,Maryland,Utah,Virginia Tech,Notre Dame
+17,South Carolina,Indiana,Utah,LSU,Maryland,Stanford,Iowa,Virginia Tech,UConn,Notre Dame
+18,South Carolina,Iowa,Indiana,Virginia Tech,Stanford,Maryland,UConn,Utah,LSU,Villanova
